@@ -12,3 +12,4 @@ See https://m.gsmarena.com/motorola_moto_g32-11733.php
 
 - Need to test
 
+- By HemanthJabalpuri
